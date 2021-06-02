@@ -1,0 +1,6 @@
+C:\Users\admin\RiderProjects\Lab1_t2009a_DinhManhTri\Exercise3\bin\Debug\Exercise3.exe
+C:\Users\admin\RiderProjects\Lab1_t2009a_DinhManhTri\Exercise3\bin\Debug\Exercise3.pdb
+C:\Users\admin\RiderProjects\Lab1_t2009a_DinhManhTri\Exercise3\obj\Debug\Exercise3.csprojAssemblyReference.cache
+C:\Users\admin\RiderProjects\Lab1_t2009a_DinhManhTri\Exercise3\obj\Debug\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\Lab1_t2009a_DinhManhTri\Exercise3\obj\Debug\Exercise3.exe
+C:\Users\admin\RiderProjects\Lab1_t2009a_DinhManhTri\Exercise3\obj\Debug\Exercise3.pdb
